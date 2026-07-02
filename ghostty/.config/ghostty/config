@@ -52,3 +52,4 @@ window-width = 160
 window-height = 35
 #gtk-custom-css = tab-style.css
 theme = cobalt2-default
+background-opacity = 0.95 
